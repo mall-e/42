@@ -1,0 +1,5 @@
+Credentials cache: API:43BB536C-0069-4DB1-8C92-166F9FDF5515
+        Principal: muyazici@42KOCAELI.COM.TR
+
+  Issued                Expires             Flags    Principal
+Sep 29 14:41:58 2021  Sep 30 00:41:54 2021  FPIA   krbtgt/42KOCAELI.COM.TR@42KOCAELI.COM.TR
